@@ -1,8 +1,11 @@
 #include <iostream>
 using namespace std;
 
+string helloWorld(){
+	return "hello word";
+}
 int main()
 {
-	cout << "oi mundo" << endl;
-	cout << "primeiro progama " << endl;
+	cout<< helloWorld() << endl;
+	
 }

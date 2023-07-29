@@ -1,1 +1,2 @@
 C:\Users\Jefferson Rodrigues\OneDrive\Área de Trabalho\aprendendo c ++\Stoic\x64\Debug\Stoic.exe
+C:\Users\Jefferson Rodrigues\Desktop\aprendendo c ++\Stoic\x64\Debug\Stoic.exe

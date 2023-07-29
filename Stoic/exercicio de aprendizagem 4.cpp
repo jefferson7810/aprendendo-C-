@@ -22,7 +22,7 @@ int main()
 
 void calcular_volume()
 {
-	float volume;
+	double volume;
 
 	volume = (raio * raio) * pi * altura;
 	cout << " O volume do cilindro e: " << volume;

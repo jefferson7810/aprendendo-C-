@@ -17,4 +17,9 @@
       <UniqueIdentifier>{d5572027-2de4-458c-aad2-dd761520ae0c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="exercicio de aprendizagem 7 lab 5.cpp">
+      <Filter>Arquivos de Origem\exercicios lab 5</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

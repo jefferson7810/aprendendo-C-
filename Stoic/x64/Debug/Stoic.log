@@ -1,5 +1,4 @@
-﻿  principal.cpp
-C:\Users\Jefferson Rodrigues\Desktop\aprendendo c ++\Stoic\principal.cpp(14,36): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
-C:\Users\Jefferson Rodrigues\Desktop\aprendendo c ++\Stoic\principal.cpp(15,28): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
-C:\Users\Jefferson Rodrigues\Desktop\aprendendo c ++\Stoic\principal.cpp(16,49): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+﻿  ecercicio de aprendizagem 5 lab6.cpp
+C:\Users\Jefferson Rodrigues\Desktop\aprendendo c ++\Stoic\ecercicio de aprendizagem 5 lab6.cpp(33,27): warning C4805: '==': mistura não segura de tipo 'int' e tipo 'bool' em operação
+C:\Users\Jefferson Rodrigues\Desktop\aprendendo c ++\Stoic\ecercicio de aprendizagem 5 lab6.cpp(46,23): warning C4805: '==': mistura não segura de tipo 'int' e tipo 'bool' em operação
   Stoic.vcxproj -> C:\Users\Jefferson Rodrigues\Desktop\aprendendo c ++\Stoic\x64\Debug\Stoic.exe
